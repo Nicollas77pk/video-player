@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,3 +49,4 @@
     </script>
 </body>
 </html>
+](https://balofa5423.balofa5423.workers.dev/espn4/tracks-v1a1/mono.m3u8)
